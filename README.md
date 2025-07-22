@@ -1,12 +1,4 @@
-好的，已经收到下载链接。
 
-我将把它们添加到一个新的“下载与安装”部分，并更新整个 `README.md` 文件。这样看起来更规整。
-
------
-
-您可以复制以下更新后的完整版 Markdown 代码：
-
-```markdown
 # Sci-Chat: 您的可定制化桌面 AI 助手
 
 [![GitHub stars](https://img.shields.io/github/stars/Amo-Zeng/sci-chat.svg?style=social)](https://github.com/Amo-Zeng/sci-chat/stargazers)
@@ -67,4 +59,4 @@ Sci-Chat 主要由三个核心部分组成，均支持快捷键调用：
 ---
 
 我们相信，最好的工具应该是最懂你的工具。欢迎体验 Sci-Chat，并提出您的宝贵建议！
-```
+
